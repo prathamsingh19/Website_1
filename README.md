@@ -27,6 +27,7 @@ technologies:
 - Visual Studio Code
 - HTML
 - CSS
+- JavaScript
 
 
 ## THANK YOU
